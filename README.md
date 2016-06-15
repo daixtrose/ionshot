@@ -45,7 +45,13 @@ After installing the needed dependencies you are done, get in the **ionshot** fo
 ```sh
 $ npm link
 ```
-and enjoy! :)
+
+## And using it...
+After linking the tool to your shell you might run this command inside any ionic folder to create screenshots:
+```sh
+$ ionshot
+```
+please note, you should have a 'screenshots' folder inside your app's 'resources' folder, the tool is parsing for 'ios*.png' files, which means that you can create as many screens as you wish, just check that your file starts with 'ios' and is a PNG.
 
 ## More info
 
