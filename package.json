@@ -1,0 +1,35 @@
+{
+  "name": "ionshot",
+  "version": "1.0.0",
+  "description": "Ionic Screenshot Generator",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/macchie/ionshot.git"
+  },
+  "author": "Andrea Macchieraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macchie/ionshot/issues"
+  },
+  "homepage": "https://github.com/macchie/ionshot#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ionshot": "build/index.js"
+  },
+  "dependencies": {
+    "glob": "^7.0.3",
+  },
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-chmod": "^1.3.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-include": "^2.2.1",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-util": "^2.2.14"
+  }
+}
