@@ -20,7 +20,7 @@
     "ionshot": "build/index.js"
   },
   "dependencies": {
-    "glob": "^7.0.3",
+    "glob": "^7.0.3"
   },
   "devDependencies": {
     "gulp": "^3.5.6",
