@@ -24,6 +24,11 @@ To install both of them on your system just launch this command:
 $ sudo npm install cordova ionic -g
 ```
 
+##### xQuartz
+xQuartz comes with lots of image processing libraries so its better to have it installed:
+
+* zQuartz Download (https://www.xquartz.org)
+
 ## Cloning this Repo
 To start using this tool please clone the repo (not an npm package yet):
 
