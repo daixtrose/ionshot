@@ -24,6 +24,17 @@ To install both of them on your system just launch this command:
 $ sudo npm install cordova ionic -g
 ```
 
+##### Homebrew
+"Homebrew installs the stuff you need that Apple didn’t."
+```sh
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+##### ImageMagick
+ImageMagick® is a software suite to create, edit, compose, or convert bitmap images.
+```sh
+$ brew install imagemagick
+```
+
 ##### xQuartz
 xQuartz comes with lots of image processing libraries so its better to have it installed:
 
