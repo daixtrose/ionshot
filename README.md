@@ -1,4 +1,4 @@
-[ionshot](http://koodit.s3.amazonaws.com/macchie/ionshot.png)
+![ionshot](http://koodit.s3.amazonaws.com/macchie/ionshot.png)
 
 # IonShot
 
